@@ -33,7 +33,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/yourusername/TG_Bot.git
+git clone https://github.com/Fiell75785/TG_Bot.git
 cd TG_Bot
 pip install -r install.txt
 python Tg_Bot.py
